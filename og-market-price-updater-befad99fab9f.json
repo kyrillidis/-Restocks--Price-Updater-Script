@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "og-market-price-updater",
+  "private_key_id": "befad99fab9f01da3edc23d063d4718106dfe225",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDckq/UzFT88Ump\nQAabEtSu1mUlRUQJ/kJg7V5TRS153ikfBNuMtevxJZhEhHhYqiTpMCMKxkUlCNzx\nAvigeJbX0bWbzM7r7Tiq95vI6FpVl/dG74xWhxEKdZwYZxK0AVmC3KbQ08k/NAbO\n5MPLTwrXMT1DTuxWQoRw4BoTpdpPfGwfJEPJ59/KBbPFzQfzdLkZqOm+oDDoVBj8\n5RmOLPMfgb4uSU+6Q+3S7BLacMLWHo5p/syORdmsCx391sPEf7+h8RrGZJOTQVP1\nP+rX5N5/YuG8LKAJLqH5PjvGCt10/csGIwGxfXrJBEqT8+LQNQ6jZ6SC8QMS0qg+\nieSdgxyNAgMBAAECggEADmVZ1H8BjQCyg2QKX6n695jxQQgkSK1aPQ6WTsOqaX8h\nGpqBOc3QeGIGbh0MkxIya9sYbmZCXQhsYyPZK6AIjaLCQkjmYxTjKJrAhXxPaQa3\nZ4nQPwAnEeewfbyRxph6nxqHngQ0k6DG+6SH+DJQeCWz5JC3cWnQpbf6pmL3Z03j\nO02BJlirBk9RPVOG4j1I/45jwsCXdHV9SHfRWlq3sKU4we/AsD4VkgKBh+S6q6bC\nUrNUirw/Rq9TE4WhEd1nWumGdcrkUEKVtecby/uGNcdc+kEzW3y8XExzs8AlqO5D\n3BRP2VMpWIsPyvpKf5cGWCJCMG7/t32X4PlnYwhgAQKBgQDwpaOxdD05AsnEiDMh\n/Ux+GRSYT3k2sTLVm7TahHXTqCzqtoAoCbnzoikp5wLy07vvqwCu/7YKWv6XKx77\nQ3Ut25TKpYiFDgPl3QhJ5PTEILHiQmYBPaxWJUCihaCRLRgrJvrSQx+S7oDjz6TW\nvqLhFxHUQjoX1H9YVEBcHWnwzQKBgQDqpTBYVB8UAariWq62sZkxnYD3q4pG1zun\nF8kx0hcUklRDZgodebWt5UP5kL11pwIF66lppIoaeQhuZLXpkl6bLCIi165xw2QD\n7kXkHZeNhhk2SBbiBo5Gf9UPWB//xHhUjy/FRz52yz87UCd1IhQOos2I6NzlHAM6\n7v+dx+7awQKBgDurNo13nv6V3GWox9Tzs5XIrjyd6BZRlaM1eoB8O6MBnjGMkvZa\ngwsP+Fj1eNuw+HaS1haOPRsQOPROst3mehWmzpv4s4MaWIkUZ0u7Q52l5bWOdTB1\nlFe/4OjrbUbSAZ4hiiu8jQWnsbnK8Lp2hnh9eeRBj5n9DJ5gNZ0hhfU5AoGBANss\nsZvP97eYVyZXzhqYiZ/unyi48tB4+x94+FWxCB4PEOZjyc7+gNWN8ZCLwmzDMwCU\nwAoNx3Iy281CBSnHrtcCwmAJVsis2h9R0bbibU2klKg/biByPzNa9IkAp+MggcV6\negSsJ4yPDOE6XaDr1BBXweTAnpTjNaE23U1kE5gBAoGBAOBpaRtibgf/xgwBYhxm\nouFolgE02vUie59Sbhkad9U1Ud5vRc3I/9KXu9hFnCzzDXLtzxdnkGAJNvE0Io0q\ndlQdUeI/4+Fl2J+PWFE67bElmVGiMV248Onnsx7nhEgcjYsGUdpd7cZlwn/Ew+Wz\nPhB5PF62tp7ghTAU/0UFg2An\n-----END PRIVATE KEY-----\n",
+  "client_email": "ogmarketstock@og-market-price-updater.iam.gserviceaccount.com",
+  "client_id": "115091692369126165880",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ogmarketstock%40og-market-price-updater.iam.gserviceaccount.com"
+}
